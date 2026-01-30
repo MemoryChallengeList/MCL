@@ -8,6 +8,10 @@
     "percentToQualify": "100",
     "fps": "any",
     "records": [
-        
+        {
+          "user": "TruffLL",
+            "link": "https://youtu.be/yTwyebT36ws",
+            "percent": 100
+        }
     ]
 }

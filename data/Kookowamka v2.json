@@ -8,5 +8,10 @@
     "percentToQualify": "100",
     "fps": "any",
     "records": [
+        {
+            "user": "River",
+            "link": "https://youtu.be/QOgxakPBPjk?si=k-T5nRfBf8tigDVz",
+            "percent": 100,
+        }
     ]
 }

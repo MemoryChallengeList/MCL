@@ -1,1 +1,17 @@
-
+{
+    "id": 57436521,
+    "name": "Kookowamka v2",
+    "author": "mipishou",
+    "creators": ["mipishou"],
+    "verifier": "mipishou",
+    "verification": "https://youtu.be/WZQNFeK0Ymw?t=281",
+    "percentToQualify": "100",
+    "fps": "any",
+    "records": [
+        {
+            "user": "River",
+            "link": "https://youtu.be/QOgxakPBPjk?si=k-T5nRfBf8tigDVz",
+            "percent": 100
+        }
+    ]
+}

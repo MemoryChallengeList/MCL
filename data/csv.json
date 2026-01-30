@@ -1,1 +1,21 @@
-
+{
+    "id": 131233106,
+    "name": "csv",
+    "author": "mipishou",
+    "creators": ["mipishou"],
+    "verifier": "mipishou",
+    "verification": "https://youtu.be/QG_MaWP5hok",
+    "percentToQualify": "100",
+    "fps": "any",
+    "records": [
+        {
+            "user": "River",
+            "link": "https://www.youtube.com/watch?v=GmZQH7dZDQs",
+            "percent": 100
+        },
+        {
+            "user": "Wsary",
+            "link": "https://www.youtube.com/watch?v=NrPs6qr7BJU",
+            "percent": 100
+    ]
+}

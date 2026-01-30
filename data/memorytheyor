@@ -1,0 +1,21 @@
+{
+    "id": 131269941,
+    "name": "memorytheyor",
+    "author": "Void",
+    "creators": ["Void"],
+    "verifier": "Void",
+    "verification": "https://youtu.be/P9AWaSHrUr0",
+    "percentToQualify": "100",
+    "fps": "any",
+    "records": [
+        {
+            "user": "River",
+            "link": "https://www.youtube.com/watch?v=gdsJ1IUaDRs",
+            "percent": 100
+        },
+        {
+            "user": "Wsary",
+            "link": "https://www.youtube.com/watch?v=Lvosdm2w8ro",
+            "percent": 100
+    ]
+}

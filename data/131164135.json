@@ -1,0 +1,17 @@
+{
+    "id": 131164135,
+    "name": "131164135",
+    "author": "mipishou",
+    "creators": ["kywex"],
+    "verifier": "kywex",
+    "verification": "https://youtu.be/NwsDPJhzR7A",
+    "percentToQualify": "100",
+    "fps": "any",
+    "records": [
+        {
+            "user": "River",
+            "link": "https://www.youtube.com/watch?v=NwsDPJhzR7A",
+            "percent": 100
+        }
+    ]
+}

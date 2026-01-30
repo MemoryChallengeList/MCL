@@ -127,10 +127,13 @@ export default {
                         Minimal rng
                     </p>
                     <p>
+                    NO SHOW HITBOXES or invalid run
+                    </p>
+                    <p>
                        MUST BE 30 SECONDS OR BELOW
                     </p>
                     <p>
-                      No decoration (yet) and you must make it yourself
+                      No decoration (yet) and you must make it for the list
                 </div>
             </div>
         </main>

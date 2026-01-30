@@ -1,16 +1,16 @@
 {
     "id": 131160953,
-    "name": "kookowamka",
+    "name": "Kookowamka",
     "author": "mipishou",
     "creators": ["mipishou"],
     "verifier": "mipishou",
     "verification": "https://www.youtube.com/watch?v=6ddx8Sq9BlU",
     "percentToQualify": "100",
-    "password": "46290",
+    "fps": "any",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "River",
+            "link": "https://youtu.be/gTcslbxzFjg?si=Kbp3k4xUOPfga63r",
             "percent": 100,
         }
     ]

@@ -8,6 +8,10 @@
     "percentToQualify": 100,
     "fps": "any",
     "records": [
-
-]
+        {
+            "user": "Skithy",
+            "link": "https://www.youtube.com/watch?v=6-WVz9uYB7I",
+            "percent": 100
+        }
+    ]
 }

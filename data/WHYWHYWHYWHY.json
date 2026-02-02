@@ -8,6 +8,10 @@
     "percentToQualify": 100,
     "fps": "any",
     "records": [
-
-  ]
+        {
+            "user": "MayXaX",
+            "link": "https://youtu.be/KTpZEtk3lYA",
+            "percent": 100
+        }
+   ]
 }

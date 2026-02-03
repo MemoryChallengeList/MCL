@@ -8,6 +8,10 @@
     "percentToQualify": 100,
     "fps": "any",
     "records": [
-
+        {
+            "user": "Wsary",
+            "link": "https://www.youtube.com/watch?v=_klsTOH1UNA",
+            "percent": 100
+        }
    ]
 }

@@ -8,6 +8,10 @@
     "percentToQualify": 100,
     "fps": "any",
     "records": [
-
+        {
+            "user": "zis08",
+            "link": "https://discord.com/channels/1458616355505832031/1469245501604892682",
+            "percent": 100
+        }
   ]
 }
